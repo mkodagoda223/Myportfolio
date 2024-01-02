@@ -1,9 +1,9 @@
 
-var typed = new Typed('#multi', {
-    strings: ['Web Developer','Frontend Developer','Freelancer'],
-    typeSpeed: 100,
-    loop:true
-  });
+var typed = new Typed("#multi", {
+  strings: ["Web Developer", "Frontend Developer", "Freelancer"],
+  typeSpeed: 100,
+  loop: true,
+});
 //   const homeBtn = document.getElementById("home");
 
 //   homeBtn.onclick = function() {
