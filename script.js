@@ -1,4 +1,3 @@
-
 var typed = new Typed("#multi", {
   strings: ["Web Developer", "Frontend Developer", "Freelancer"],
   typeSpeed: 100,
@@ -9,7 +8,7 @@ var typed = new Typed("#multi", {
 //   homeBtn.onclick = function() {
 //     window.location.href = "index.html";
 //   };
-  
+
 //   const aboutBtn = document.getElementById("about");
 
 //   homeBtn.onclick = function() {
